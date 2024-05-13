@@ -111,7 +111,6 @@ class _ExpAcadPageState extends State<ExpAcadPage> {
                         'Outils : ',
                         style: TextStyle(
                           fontSize: 16,
-                          color: Colors.black87,
                           fontWeight: FontWeight.bold
                         ),
                       ),
@@ -121,7 +120,6 @@ class _ExpAcadPageState extends State<ExpAcadPage> {
                         textAlign: TextAlign.justify,
                         style: TextStyle(
                           fontSize: 14,
-                          color: Colors.black87,
                         ),
                       ),
                     ],

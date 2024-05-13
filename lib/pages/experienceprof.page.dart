@@ -126,7 +126,6 @@ class _ExpProfPageState extends State<ExpProfPage> {
                         'Outils : ',
                         style: TextStyle(
                           fontSize: 16,
-                          color: Colors.black87,
                           fontWeight: FontWeight.bold
                         ),
                       ),
@@ -136,7 +135,6 @@ class _ExpProfPageState extends State<ExpProfPage> {
                         textAlign: TextAlign.justify,
                         style: TextStyle(
                           fontSize: 14,
-                          color: Colors.black87,
                         ),
                       ),
                     ],
